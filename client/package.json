@@ -2,7 +2,7 @@
   "name": "project_studymateai-client",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://JunZero_08.github.io/project_studymateai",
+  "homepage": "https://JunZero08.github.io/Project_StudyMateAI",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
